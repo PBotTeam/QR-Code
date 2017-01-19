@@ -24,8 +24,7 @@ https://api.telegram.org/bot♦/setWebhook?url=♣
 ##Number Id & Bot Token
 ``
 جهت دریافت ایدی عددی خود ربات زیر رو استارت کنید و عددی که بهتون میده ایدی عددی شماست
-[at]userinfobot
-------------------------------------------
+userinfobot
 جهت مطالعه اموزش ساخت ربات و توکن از لینک زیر اقدام کنید
 [مطالعه](https://t.me/PvCreators/7)
 ``
